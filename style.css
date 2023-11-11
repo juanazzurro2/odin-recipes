@@ -1,0 +1,13 @@
+* {
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    text-align: center;
+}
+.imghome {
+text-align: center;
+border-color: black;
+border-radius: 15%;
+}
